@@ -25,5 +25,10 @@ class HomeActivity : AppCompatActivity() {
             auth.signOut()
             startActivity(Intent(this, MainActivity::class.java))
         }
+
+        findViewById<Button>(R.id.continues).setOnClickListener{
+            startActivity(Intent(this, News::class.java))
+        }
+
     }
 }

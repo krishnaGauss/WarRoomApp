@@ -2,4 +2,13 @@
     <string name="app_name">FirebaseAuth</string>
     <string name="sign_in">Sign-In</string>
     <string name="sign_out">SIGN OUT</string>
+    <string name="news">News</string>
+    <string name="hackathon">Hackathon</string>
+    <string name="profile">Profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="news_fragment">News Fragment</string>
+    <string name="hackathon_fragment">Hackathon Fragment</string>
+    <string name="profile_fragment">Profile Fragment</string>
+    <string name="continues">Continue</string>
 </resources>
